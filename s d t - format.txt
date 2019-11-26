@@ -1,0 +1,23 @@
+0 Kod stacji                                      9
+Nazwa stacji                                   30
+Rok                                             4
+Miesi¹c                                         2
+Dzieñ                                           2
+Œrednie dobowe zachmurzenie ogólne              6/1
+Status pomiaru NOS                              1
+Œrednia dobowa prêdkoœæ wiatru                  6/1
+Status pomiaru FWS                              1
+Œrednia dobowa temperatura                      5/1
+Status pomiaru TEMP                             1
+Œrednia dobowe ciœnienie pary wodnej            5/1
+Status pomiaru CPW                              1
+Œrednia dobowa wilgotnoœæ wzglêdna              8/1
+Status pomiaru WLGS                             1
+Œrednia dobowe ciœnienie na poziomie stacji     7/1
+Status pomiaru PPPS                             1
+Œrednie dobowe ciœnienie na pozimie morza       7/1
+Status pomiaru PPPM                             1
+Suma opadu dzieñ                                8/1
+Status pomiaru WODZ                             1
+Suma opadu noc                                  8/1
+Status pomiaru WONO                             1

@@ -1,0 +1,46 @@
+POGODA: s_d_t
+
+
+
+// moje dane: Wokalna - Ursynów
+// Marsza³kowska = Marsza³kowska
+
+
+smog:
+* Niepodleglosci, Kondrat, Marszalkowska, Wokalna
+
+pogoda:
+2011, 12, 13, 14, 15, 16 (6 lat)
+
+DANE
+
+POGODA - Instytut Meteorologii i Gospodarki Wodnej
+1.11.2016 - 3.03.2017
+
+PY£Y - G³ówny Inspektorat Ochrony Œrodowiska
+1.11.2016 - 21.03.2017
+Warszawa - Marsza³kowska i Ursynów
+
+
+k-d
+* max, min, avg temp
+* suma dobowa opadow
+
+k-d-t
+* avg temp
+* avg wilgotnosc
+* avg predkosc wiatru
+* avg zachmurzenie
+
+s-d
+* max, min, avg temp
+* suma dobowa opadu
+* czas trwania opadu deszczu, gradu, œniegu, mg³y
+
+s-d-t
+* avg zachmurzenie
+* avg predkosc wiatru
+* avg temp
+* avg cisnienie
+* avg wilgotnosc
+* opady noc i dzieñ

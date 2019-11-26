@@ -1,0 +1,40 @@
+\BOOKMARK [0][-]{chapter.1}{Wstep}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Problem smogu}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Smog kwasny w Polsce}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Problem predykcji smogu}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{Mozliwe aplikacje praktyczne}{chapter.1}% 5
+\BOOKMARK [0][-]{chapter.2}{Opis pracy inzynierskiej}{}% 6
+\BOOKMARK [1][-]{section.2.1}{Proponowane rozwiazanie problemu predykcji}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.2}{Za\233ozenia pracy}{chapter.2}% 8
+\BOOKMARK [0][-]{chapter.3}{Analiza istniejacych rozwiazan}{}% 9
+\BOOKMARK [1][-]{section.3.1}{Wprowadzenie do przegladu literatury}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.2}{Air pollution prediction via multi-label classification; G. Corani, M. Scanagatta}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.3}{Data mining methods for prediction of air pollution; K. Siwek, S. Osowski}{chapter.3}% 12
+\BOOKMARK [0][-]{chapter.4}{Zebranie i przygotowanie danych}{}% 13
+\BOOKMARK [1][-]{section.4.1}{Zebranie danych pogodowych}{chapter.4}% 14
+\BOOKMARK [1][-]{section.4.2}{Zebranie danych smogowych}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.3}{Obr\363bka wstepna danych pogodowych}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.4}{Obr\363bka wstepna danych smogowych}{chapter.4}% 17
+\BOOKMARK [0][-]{chapter.5}{Eksploracyjna analiza danych}{}% 18
+\BOOKMARK [1][-]{section.5.1}{Po\233aczenie danych, brakujace wartosci}{chapter.5}% 19
+\BOOKMARK [1][-]{section.5.2}{Korelacje zmiennych}{chapter.5}% 20
+\BOOKMARK [1][-]{section.5.3}{Wartosci odstajace}{chapter.5}% 21
+\BOOKMARK [1][-]{section.5.4}{Inzynieria cech}{chapter.5}% 22
+\BOOKMARK [1][-]{section.5.5}{Smog na przestrzeni lat i miesiecy}{chapter.5}% 23
+\BOOKMARK [1][-]{section.5.6}{Zaleznosci miedzy zmiennymi objasniajacymi, a objasnianymi}{chapter.5}% 24
+\BOOKMARK [1][-]{section.5.7}{Skosnosc rozk\233adu zmiennych}{chapter.5}% 25
+\BOOKMARK [0][-]{chapter.6}{Modelowanie}{}% 26
+\BOOKMARK [1][-]{section.6.1}{Algorytm las\363w losowych w problemie regresji}{chapter.6}% 27
+\BOOKMARK [1][-]{section.6.2}{Wstep do procesu modelowania}{chapter.6}% 28
+\BOOKMARK [1][-]{section.6.3}{Model oparty na samej pogodzie - kwestia logarytmowania}{chapter.6}% 29
+\BOOKMARK [1][-]{section.6.4}{Model oparty na pogodzie i smogu z dnia poprzedniego - kwestia logarytmowania}{chapter.6}% 30
+\BOOKMARK [1][-]{section.6.5}{Ostateczne modele}{chapter.6}% 31
+\BOOKMARK [0][-]{chapter.7}{Badanie otrzymanych modeli}{}% 32
+\BOOKMARK [1][-]{section.7.1}{Przedstawienie najlepszego modelu}{chapter.7}% 33
+\BOOKMARK [1][-]{section.7.2}{Kros-walidacja modelu}{chapter.7}% 34
+\BOOKMARK [1][-]{section.7.3}{Interpretacja modelu predykcji}{chapter.7}% 35
+\BOOKMARK [1][-]{section.7.4}{Wnioski}{chapter.7}% 36
+\BOOKMARK [0][-]{chapter.8}{Podsumowanie}{}% 37
+\BOOKMARK [1][-]{section.8.1}{Wstep do podsumowania}{chapter.8}% 38
+\BOOKMARK [1][-]{section.8.2}{Podsumowanie}{chapter.8}% 39
+\BOOKMARK [0][-]{chapter*.4}{Bibliografia}{}% 40

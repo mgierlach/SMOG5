@@ -1,0 +1,16 @@
+0 Kod stacji                             9
+Nazwa stacji                          30
+Rok                                    4
+Miesi¹c                                2
+Dzieñ                                  2
+Maksymalna temperatura dobowa          6/1
+*Status pomiaru TMAX                    1
+Minimalna temperatura dobowa           6/1
+*Status pomiaru TMIN                    1
+Œrednia temperatura dobowa             8/1
+*Status pomiaru STD                     1
+Temperatura minimalna przy gruncie     6/1
+*Status pomiaru TMNG                    1
+Suma dobowa opadu                      8/1
+Status pomiaru SMDB                    1
+15 Rodzaj opadu                           1
