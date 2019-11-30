@@ -1,4 +1,4 @@
-# Smog-related pollution prediction in the city centre of Warsaw, Poland.
+# Smog-related pollution prediction in Warsaw, Poland
 
 I propose a possible approach to solving the smog-related pollution prediction problem using the relationships between the weather and pollution data. I researched the solutions that have been published up to this point, gathered the data and went through the process of data mining in order to extract the knowledge. The statistical model have been created that explains the relationships in the data.
 
